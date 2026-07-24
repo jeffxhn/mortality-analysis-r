@@ -58,6 +58,7 @@ R packages used: library(tidyverse), library(viridis)
 
 ## Project Structure
 
+```
 mortality-analysis-r/
 │
 ├── README.md
@@ -80,8 +81,7 @@ mortality-analysis-r/
     ├── 07_multi_year_overlay.png
     ├── 08_observed_vs_predicted.png
     └── 09_prediction_error.png
-
----
+```
 
 ## Methodology
 
